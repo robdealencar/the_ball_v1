@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/The_ball/Title.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
